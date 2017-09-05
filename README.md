@@ -1,4 +1,4 @@
-#Vagrant file for testing Multi-homed pod cni
+## Vagrant file for testing Multi-homed pod cni
 
 Setup simple cluster of kubernetes with 1 master and 2 nodes. 
 
